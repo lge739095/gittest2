@@ -3,6 +3,8 @@ public class Car {
 	private Engine engine;
 	private String name;
 	private String age;
+	private int people = 1;
+
 
 	public Car(Engine engine) {
 		this.engine = engine;
