@@ -1,6 +1,7 @@
 public class Car {
 	private int numberOfWheels = 4;
 	private Engine engine;
+	private int people = 1;
 
 	public Car(Engine engine) {
 		this.engine = engine;
